@@ -6,3 +6,5 @@ Java language implement of Stack structure.
 
 ### LinkedStack
 使用链表实现的栈
+
+数据测试见app/src/test目录下测试类
